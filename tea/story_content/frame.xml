@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="tabs-tea" />
+              <option name="title_text" value="Tea Basics" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1566,7 +1566,7 @@
       <links>
         <slidelink slideid="_player.5inTwvep8BO" displaytext="Tab Interaction" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5inTwvep8BO.6eJrzTOTqW4" displaytext="Basics of Tea" expand="false" type="slide" />
+            <slidelink slideid="_player.5inTwvep8BO.6eJrzTOTqW4" displaytext="Tea Basics" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
